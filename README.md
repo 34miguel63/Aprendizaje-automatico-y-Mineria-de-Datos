@@ -8,7 +8,7 @@
 ## 👥 Autores
 | Nombre | Rol | 
 |--------|-----|
-| **Miguel Ángel Banteurt Blanco** | Desarrollo de pipeline, entrenamiento y evaluación | 
+| **Miguel Angel Banteurt Blanco** | Desarrollo de pipeline, entrenamiento y evaluación | 
 | **Fernando David Méndez Viciedo** | Preprocesamiento, validación y métricas | 
 | **Gabriel Ramos Martín** | Interfaz de usuario (Streamlit), documentación y despliegue | 
 
