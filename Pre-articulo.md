@@ -1,7 +1,7 @@
 # Predicción de Retrasos en el Transporte Público Urbano Mediante Aprendizaje Automático Supervisado: Un Enfoque Aplicado al Contexto Cubano
 
 **Autores:**  
-Miguel Ángel Banteurt Blanco  
+Miguel Angel Banteurt Blanco  
 Fernando David Méndez Viciedo  
 Gabriel Ramos Martín  
  
