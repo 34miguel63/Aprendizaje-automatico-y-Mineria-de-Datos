@@ -6,11 +6,11 @@
 ---
 
 ## 👥 Autores
-| Nombre | Rol | Contacto |
-|--------|-----|----------|
-| **Miguel Ángel Banteurt Blanco** | Desarrollo de pipeline, entrenamiento y evaluación | `miguel.banteurt@institucion.edu.cu` |
-| **Fernando David Méndez Viciedo** | Preprocesamiento, validación y métricas | `fernandez.mendez@institucion.edu.cu` |
-| **Gabriel Ramos Martín** | Interfaz de usuario (Streamlit), documentación y despliegue | `gabriel.ramos@institucion.edu.cu` |
+| Nombre | Rol | 
+|--------|-----|
+| **Miguel Ángel Banteurt Blanco** | Desarrollo de pipeline, entrenamiento y evaluación | 
+| **Fernando David Méndez Viciedo** | Preprocesamiento, validación y métricas | 
+| **Gabriel Ramos Martín** | Interfaz de usuario (Streamlit), documentación y despliegue | 
 
 *Departamento de Ingeniería Informática FITIB*
 
